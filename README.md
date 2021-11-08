@@ -1,7 +1,5 @@
 ### hi son eu sou o spiderpunk
 
-
-- 🔭 Trabalho com front-end e back-end
 - 🌱 Estudando A. Desenvolvimento de Sistemas, C, Java, JavaScript
 
 <div>
