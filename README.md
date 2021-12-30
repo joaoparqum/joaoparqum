@@ -1,4 +1,4 @@
-### hi son eu sou o spiderpunk
+### eu sou o spiderpunk
 
 - 🌱 Estudando A. Desenvolvimento de Sistemas, C, Java, JavaScript
 
