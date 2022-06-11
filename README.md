@@ -1,6 +1,7 @@
 ### eu sou o spiderpunk
 
-- 🌱 Estudando A. Desenvolvimento de Sistemas, C, Java, JavaScript
+- 🌱 Estudando A. Desenvolvimento de Sistemas
+- 🏯 IFBA 
 
 <div>
   <a href="https://github.com/itsjoaaaao">
