@@ -1,7 +1,15 @@
 ###
 
-- 🌱 Estudando A. Desenvolvimento de Sistemas
-- 🏯 IFBA 
+```yaml
+ let bio: {
+    name: "João Paulo Arquim",
+    nickname: "joão",
+    education: "IFBA Student - ADS",
+    location: "Irecê, Bahia",
+    code: "Java, HTML, CSS e JavaScript",
+   }
+   
+   ```
 
 <div>
   <a href="https://github.com/itsjoaaaao">
