@@ -5,8 +5,9 @@
     name: "João Paulo Arquim",
     nickname: "joão",
     education: "IFBA Student - ADS",
-    location: "Irecê, Bahia",
-    code: "Java, HTML, CSS e JavaScript",
+    location: "Irecê - Bahia",
+    code: "Java, Spring, PHP, Laravel",
+    area: "BACKEND DEV"
    }
    
    ```
@@ -25,6 +26,25 @@
   <img align="center" alt="Rafa-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
   <img align="center" alt="Rafa-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
 </div>
+
+
+<h2>Estudando:</h2>
+
+<div style="display: inline_block"><br>
+ <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+ <img align="center" alt="REACT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
+ <img align="center" alt="LARAVEL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
+</div>
+
+##
+
+<div>
+ <a href="https://instagram.com/arquimjoao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/joao-arquim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+
+
   
   
 
