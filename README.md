@@ -6,7 +6,7 @@
     nickname: "joão",
     education: "IFBA Student - ADS",
     location: "Irecê - Bahia",
-    code: "Java, Spring, PHP, Laravel, React, TS, Angular",
+    code: "Laravel, React, TS, Angular, Java, Spring",
    }
    
    ```
