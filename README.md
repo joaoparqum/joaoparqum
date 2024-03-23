@@ -6,7 +6,7 @@
     nickname: "joão",
     education: "IFBA Student - ADS",
     location: "Irecê - Bahia",
-    code: "Laravel, React, TS, Angular, Java, Spring, RabbitMQ",
+    code: "Laravel, React, TS, Next.Js, Java, Spring, RabbitMQ",
    }
    
    ```
@@ -35,7 +35,8 @@
  
  <img align="center" alt="REACT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img align="center" alt="TS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="A" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img align="center" alt="N" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+          
 </div>
 
 </br>
