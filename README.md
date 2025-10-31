@@ -1,30 +1,14 @@
-### Olá, Eu sou João Paulo!
+### 🧪 João Paulo | QA Engineer
 
-```yaml
- let bio: {
-    name: "João Paulo Arquim",
-    nickname: "joão",
-    education: "IFBA Student - ADS",
-    location: "Irecê - Bahia",
-    code: "Nginx, React, TS, Next.Js, Java, Spring, Vue + Vite"
-   }
-   
-   ```
+👋 Olá! Sou João Paulo, estudante de Análise e Desenvolvimento de Sistemas, em transição de Desenvolvedor Full Stack para QA Engineer.
+Tenho experiência com testes manuais e automatizados, sempre buscando garantir a qualidade e confiabilidade das aplicações.
 ## Tecnologias
 
-<div align='center'><br>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="laravel" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />       
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />           
-  <img align="center" alt="Rafa-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" /> 
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />        
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
+- **Testes Manuais:** Planejamento, Casos de Teste, TestRail, Qase  
+- **Automação:** Selenium WebDriver, Cypress, JUnit, Python (Pytest)  
+- **APIs:** Postman, Swagger  
+- **Integração:** Git, GitHub  
+- **Extras:** Docker, SQL, Metodologias Ágeis (Scrum)
 
 <div align='center'><br>
  
